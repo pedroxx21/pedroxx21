@@ -8,6 +8,8 @@
 
 ## 🚀 Sobre Mim
 
+Meu Portfólio: https://pedroxx21.github.io/Portfolio-Pedro-H/
+
 Sou um desenvolvedor dedicado que trabalha em projetos que unem **tecnologia e impacto social**. Já criei plataformas voltadas ao cuidado com idosos (em parceria com empresas fictícias como a *A Canes Solutions* e *Cuidar é Viver*) e sistemas de monitoramento ambiental com foco no **ODS 15 - Vida Terrestre**.
 
 Tenho experiência no desenvolvimento de interfaces com **Python + Tkinter**, integração com **MySQL**, e gosto de criar sistemas completos com várias funcionalidades (login, CRUD, relatórios, etc).
@@ -33,8 +35,8 @@ Tenho experiência no desenvolvimento de interfaces com **Python + Tkinter**, in
 
 ## 📫 Como me encontrar
 
-✉️ Email: **[SeuEmailAqui@email.com]**  
-🔗 GitHub: [github.com/pedrohenriquelopes](https://github.com/pedrohenriquelopes)  
+✉️ Email: **lopesph06@gmail.com**  
+🔗 GitHub: [github.com/pedrohenriquelopes](https://github.com/pedroxx21)  
 📁 Repositórios com foco social, educacional e ambiental  
 
 ---
